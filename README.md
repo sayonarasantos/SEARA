@@ -1,3 +1,5 @@
-# SEARA
+## SEARA
 
-Equipe: Joel e Sayonara
+- Desafio  HTML e CSS
+- Equipe: Joel e Sayonara
+
